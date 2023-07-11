@@ -1,0 +1,4 @@
+Node-Cron used for:
+1. Send Scheduled Emails.
+2. Backup from Databases.
+3. Deleting Files.
